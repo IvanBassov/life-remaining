@@ -1,3 +1,15 @@
+# Life Remaining
+
+_**Rethinking Time and Perspective**_
+
+**Ivan Bassov | 2026-03-17**
+
+_In “Life Remaining: Rethinking Time and Perspective,” I explore a simple yet profound idea: rather than asking “How old am I?”, what if we asked “How much life do I actually have left?” This article combines practical tools, like the Life Remaining Calculator, with thought-provoking visualizations to help readers see their life in measurable, tangible units—years, months, and percentages. It is not motivational fluff or moralizing advice, but a way to gain clarity, perspective, and a deeper appreciation for the finite nature of life._
+
+**[Substack](https://thedominant.substack.com/p/life-remaining) | [Medium](https://medium.com/p/life-remaining-9e2aa5ffa7fd) | [LinkedIn](https://www.linkedin.com/pulse/life-remaining-ivan-bassov-ph-d--hio0f/) | [The Times of Israel](https://blogs.timesofisrael.com/life-remaining/) | [GitHub](https://github.com/IvanBassov/life-remaining) | [Grokipedia](https://grokipedia.com/page/Biblical_Lifespans_and_the_Concept_of_Life_Remaining)**
+
+---
+
 # Life Remaining Calculator
 
 **life-remaining.py** is a small Python program that displays **remaining life expectancy by age and sex** using WHO life tables.
